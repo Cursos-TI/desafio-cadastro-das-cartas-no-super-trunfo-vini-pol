@@ -150,6 +150,7 @@ int main() {
     printf("A densidade de %s é menor que a de %s? %d\n", nome1, nome2, densidade1 < densidade2);
     printf("O PIB per capita de %s é maior que o PIB per capita de %s? %d\n", nome1, nome2, pibpercapita1 > pibpercapita2);
     printf("O Super Poder de %s é maior que o Super Poder de %s? %d\n", nome1, nome2, superpoder1 > superpoder2);
+    //Comparação das cartas após dados inseridos
 
 
 
